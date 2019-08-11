@@ -1,2 +1,1 @@
-# advanced-java-concepts-java8
-Advanced java and java 8 concepts
+# Advanced Java and Java 8 concepts
